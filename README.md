@@ -1,3 +1,9 @@
+# link repo + link pages
+https://github.com/Roberto-Moreno/Api-robertoMoreno/tree/main
+https://roberto-moreno.github.io/Api-robertoMoreno/
+https://youtu.be/lyEXQbuGZG8
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
